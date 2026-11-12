@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hero's Quest. The softwa
 **Get the most recent version of Hero's Quest today!**
 
 ---
-**Last updated:** 2026-11-12 04:33:30 UTC
+**Last updated:** 2026-11-12 13:22:43 UTC
